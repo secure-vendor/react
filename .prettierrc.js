@@ -1,7 +1,7 @@
 'use strict';
 
 const {esNextPaths} = require('./scripts/shared/pathsByLanguageVersion');
-
+//zoba zoba zoba
 module.exports = {
   bracketSpacing: false,
   singleQuote: true,
