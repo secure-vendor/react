@@ -4,7 +4,7 @@ const {
   es5Paths,
   esNextPaths,
 } = require('./scripts/shared/pathsByLanguageVersion');
-
+// zoba zoba zoba
 const OFF = 0;
 const ERROR = 2;
 
